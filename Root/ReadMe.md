@@ -19,4 +19,16 @@ Quote: "Is this the Krusty Crab? No this is Patrick"
     A funny little massage on how it is funny; check out more.
 
     STRUCTURE:
-    
+
+    Background color: Bikini Bottom Texture, lighter
+
+    All Centered
+        H1 Patrick Star
+          Quote
+
+    Image: In container with Rock Texture
+          Quote under images
+
+    Centered column of events ended by a quote from Spongebob.
+
+    Check out---
