@@ -1,2 +1,31 @@
 /* CSS Styles */
 
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+.box-element {
+    margin: 5px;
+}
+
+.image {
+    width: 50%;
+
+}
+
+#tribute-info {
+    text-align: inherit;
+    width: inherit;
+    border-color: lightcoral;
+    border-block-color: black;
+    background-color: rgba(72, 211, 83, 0.705);
+}
+
+li {
+    line-height: 150%;
+}
